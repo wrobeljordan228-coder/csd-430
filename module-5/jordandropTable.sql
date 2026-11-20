@@ -1,0 +1,3 @@
+USE CSD430;
+
+DROP TABLE IF EXISTS jordanmoviesdata;
